@@ -1,6 +1,6 @@
 # linux 수업 노트
 
-<img src="linux.png" width="600" height="400">
+<img src="linux.png" width="500" height="300">
 
 &nbsp;
 
