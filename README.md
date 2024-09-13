@@ -8,5 +8,5 @@
 
 
 
-- **파이썬 설치**:  📄[노트](https://www.notion.so/a1d9ec6260b34914b67cfb1b7bf33f52)
+- **리눅스 설치**:  📄[노트](https://www.notion.so/a1d9ec6260b34914b67cfb1b7bf33f52)
   &nbsp;
