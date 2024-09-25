@@ -69,3 +69,5 @@
 - **리눅스 기본 29. 하둡 설치**:  📄[노트](https://www.notion.so/29-b4c24b66b41a4ff481ec826b5376c71a?pvs=21)
 
 - **리눅스 기본 30. 몽고디비(mongo db)**:  📄[노트](https://www.notion.so/30-mongo-db-10bdf982be658038805ad7b70247ad6a?pvs=21)
+
+- **리눅스 기본 31. 스파크(Spark) 설치**:  📄[노트](https://www.notion.so/31-Spark-10cdf982be65803ca8fceb27db87e279?pvs=21)
