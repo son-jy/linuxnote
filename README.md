@@ -10,6 +10,7 @@
 
 - **리눅스 설치**:  📄[노트](https://www.notion.so/d22ae3d602094db6a3ab26cbfc034b83)
   &nbsp;
+
 - **리눅스 기본 명령어1. cd 명령어**:  📄[노트](https://www.notion.so/1-cd-10bdf982be6580aba53cf9ba414f5351?pvs=21)
 
 - **리눅스 기본 명령어2. mkdir 명령어**:  📄[노트](https://www.notion.so/2-mkdir-10bdf982be6580749ab4fe16d10e4a71?pvs=21)
